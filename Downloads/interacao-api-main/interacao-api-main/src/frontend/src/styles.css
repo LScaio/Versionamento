@@ -1,0 +1,62 @@
+﻿body {
+  margin: 0;
+  font-family: Roboto, Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+html, body {
+  min-height: 100%;
+}
+
+.snack-success {
+  background-color: #198754 !important;
+}
+
+.snack-error {
+  background-color: #dc3545 !important;
+}
+/* ---------- Cacá Games ---------- */
+
+body{
+    background:#f3f5f7;
+}
+
+/* Banner */
+
+.hero-banner{
+    background:linear-gradient(135deg,#101522,#1b2d58,#3b2b78);
+    color:white;
+}
+
+.hero-banner h1{
+    font-weight:bold;
+}
+
+.hero-banner hr{
+    opacity:.3;
+}
+
+/* Cards */
+
+.card{
+    border:none;
+    border-radius:16px;
+    box-shadow:0 8px 20px rgba(0,0,0,.08);
+}
+
+/* Navbar */
+
+.navbar{
+    box-shadow:0 3px 10px rgba(0,0,0,.3);
+}
+
+/* Tabela */
+
+.table thead{
+    background:#101522;
+    color:white;
+}
+
+.table tbody tr:hover{
+    background:#f1f7ff;
+}

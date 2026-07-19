@@ -1,0 +1,14 @@
+{
+  "clientes": [
+    {
+      "id": 6,
+      "nome": "Caio Lindo e Gostoso",
+      "endereco": "Castelo Real Cacá games"
+    },
+    {
+      "id": 7,
+      "nome": "Matheuszão",
+      "endereco": "Sobradisney"
+    }
+  ]
+}
